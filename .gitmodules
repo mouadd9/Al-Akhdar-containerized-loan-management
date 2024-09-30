@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/mouadd9/affairs-management-backend-rest-app
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/mouadd9/affairs-management-frontend-angular-app
